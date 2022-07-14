@@ -1,0 +1,28 @@
+{
+  "todos": [
+    {
+      "title": "Learn DSA",
+      "isfavorite": true,
+      "status": false,
+      "id": 1
+    },
+    {
+      "title": "Learn Redux",
+      "isfavorite": false,
+      "status": false,
+      "id": 2
+    },
+    {
+      "title": "TypeScript",
+      "isfavorite": false,
+      "status": false,
+      "id": 3
+    },
+    {
+      "title": "Learn React",
+      "isfavorite": false,
+      "status": false,
+      "id": 4
+    }
+  ]
+}
